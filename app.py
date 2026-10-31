@@ -1,4 +1,4 @@
-```react
+react
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   Trophy, 
@@ -1233,4 +1233,3 @@ Maç: ${aiCustomHome} vs ${aiCustomAway}
     </div>
   );
 }
-```
